@@ -59,5 +59,30 @@ h2{
   color: #1c81c0;
   margin-top: 0;
 }
+/* SEÇÃO SERVIÇOS */
+
+.paragrafo-servicos {
+  color: #ffffff;
+  line-height: 42px;
+  width: 700px;
+  font-size: 22px;
+  text-align: center;
+}
+.texto-amarelo {
+  color:#fff81b;
+  font-weight: bold;
+}
+.servicos {
+    background-color: #1d80c1;
+}
+h3 {
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+
+
+
 
 

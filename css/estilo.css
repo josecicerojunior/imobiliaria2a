@@ -80,8 +80,18 @@ h3 {
   font-size: 28px;
   line-height: 42px;
 }
+.listas-servicos {
+  width: 135px;
+  margin: 40px auto 40px;
+}
 
-
+.item-servicos {
+  font-size: 22px;
+  line-height: 42px;
+  color:#fff;
+  text-align:left;
+}
+/* FIM SEÇÃO SERVIÇOS */
 
 
 

@@ -72,7 +72,7 @@ h2{
   color:#fff81b;
   font-weight: bold;
 }
-.servicos {
+.servicos, .contato {
     background-color: #1d80c1;
 }
 h3 {
@@ -94,5 +94,24 @@ h3 {
 /* FIM SEÇÃO SERVIÇOS */
 
 
+/* INÍCIO CONTATO */
+
+.lista-contato {
+  width: 210px;
+  list-style: none;
+  margin: 40px auto 40px;
+}
+.item-lista-contato {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 18px;
+}
+.link-contato {
+  background-color: #ffffff;
+  color:#1d80c1;
+  padding: 2px 5px;
+  border-radius: 5px;
+  
+}
 
 
